@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-kumar-9a1b13286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-9a1b13286" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman7ak&show_icons=true&locale=en&layout=compact" alt="aman7ak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman7ak&show_icons=true&locale=en" alt="aman7ak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman7ak&" alt="aman7ak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman7ak&" alt="aman7ak" /></p>
